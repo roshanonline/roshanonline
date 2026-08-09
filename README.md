@@ -8,13 +8,13 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=181717" />
+<a href="https://github.com/Kirthick-Roshan-S">
+<img src="https://img.shields.io/github/followers/Kirthick-Roshan-S?label=Followers&style=for-the-badge&logo=github&color=181717" />
 </a>
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow" />
+<a href="https://github.com/Kirthick-Roshan-S?tab=repositories">
+<img src="https://img.shields.io/github/stars/Kirthick-Roshan-S?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=Kirthick-Roshan-S&style=for-the-badge&color=blue" />
 
 </div>
 
@@ -38,14 +38,12 @@ profile:
     - Cloud Security
     - Monitoring & Observability
     - Linux Administration
-
   currently_learning:
     - Advanced AWS
     - Kubernetes
     - Terraform
     - DevSecOps
     - Cloud Architecture
-
   engineering_mindset:
     - Automate Everything
     - Infrastructure as Code
@@ -315,9 +313,8 @@ Prediction
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirthick-Roshan-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthick-Roshan-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -326,9 +323,7 @@ Prediction
 # 🔥 Contribution Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
+<img src="https://streak-stats.demolab.com?user=Kirthick-Roshan-S&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -336,9 +331,7 @@ Prediction
 # 📊 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirthick-Roshan-S&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -346,9 +339,7 @@ Prediction
 # 🏆 GitHub Achievements
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=Kirthick-Roshan-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </div>
 
 ---
@@ -356,9 +347,7 @@ Prediction
 # 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-
+<img src="https://raw.githubusercontent.com/Kirthick-Roshan-S/Kirthick-Roshan-S/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
@@ -408,27 +397,15 @@ Observability
 
 ### ☁️ Cloud
 
-`AWS Architecture`
-`AWS Networking`
-`IAM & Security`
-`High Availability`
-`Scalable Infrastructure`
+`AWS Architecture` `AWS Networking` `IAM & Security` `High Availability` `Scalable Infrastructure`
 
 ### ⚙️ DevOps
 
-`Advanced CI/CD`
-`Kubernetes`
-`Terraform`
-`Ansible`
-`DevSecOps`
+`Advanced CI/CD` `Kubernetes` `Terraform` `Ansible` `DevSecOps`
 
 ### 📊 Observability
 
-`Prometheus`
-`Grafana`
-`CloudWatch`
-`Centralized Logging`
-`Alerting`
+`Prometheus` `Grafana` `CloudWatch` `Centralized Logging` `Alerting`
 
 ---
 
@@ -488,12 +465,10 @@ I organize my repositories around practical engineering:
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Kirthick-Roshan-S">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:devstack08@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
@@ -505,7 +480,7 @@ I organize my repositories around practical engineering:
 
 <div align="center">
 
-> **"Build it. Automate it. Deploy it. Monitor it. Improve it."**
+### **"Build it. Automate it. Deploy it. Monitor it. Improve it."**
 
 ### ☁️ Cloud • ⚙️ DevOps • 🐳 Containers • ☸️ Kubernetes • 🔄 CI/CD • 🔐 DevSecOps
 
