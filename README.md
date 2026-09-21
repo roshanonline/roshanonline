@@ -1,20 +1,27 @@
+<!-- ═══════════════ HEADER (animated wave) ═══════════════ -->
 <div align="center">
 
-# 👋 Hi, I'm Kirthick Roshan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:232F3E,100:FF9900&height=240&section=header&text=Kirthick%20Roshan&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AI%2FML%20Enthusiast&descSize=20&descAlignY=60" alt="header"/>
 
-### ☁️ Cloud & DevOps Engineer | AWS | Linux | Docker | Kubernetes | CI/CD
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineering;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions;Infrastructure+as+Code+%7C+Terraform;Monitoring+%7C+Automation+%7C+Cloud+Security" alt="Typing SVG" />
+<!-- Typing animation -->
+<a href="https://github.com/roshanonline">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=760&height=50&lines=%E2%98%81%EF%B8%8F+Building+scalable+apps+on+AWS;%F0%9F%90%B3+Containerizing+everything+with+Docker;%E2%98%B8%EF%B8%8F+Orchestrating+workloads+with+Kubernetes;%F0%9F%94%84+Automating+CI%2FCD+with+Jenkins;%F0%9F%A4%96+Integrating+AI%2FML+into+real-world+systems" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://github.com/Kirthick-Roshan-S">
-<img src="https://img.shields.io/github/followers/Kirthick-Roshan-S?label=Followers&style=for-the-badge&logo=github&color=181717" />
-</a>
-<a href="https://github.com/Kirthick-Roshan-S?tab=repositories">
-<img src="https://img.shields.io/github/stars/Kirthick-Roshan-S?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Kirthick-Roshan-S&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=roshanonline&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/roshanonline?label=Followers&style=for-the-badge&logo=github&color=232F3E" alt="Followers"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge" alt="Open to work"/>
+
+<br/><br/>
+
+<!-- Quick navigation -->
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-0e75b6?style=flat-square"/></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-232F3E?style=flat-square"/></a>
+<a href="#-cloud--devops-architecture"><img src="https://img.shields.io/badge/Architecture-FF9900?style=flat-square"/></a>
+<a href="#-github-analytics"><img src="https://img.shields.io/badge/Analytics-2ea44f?style=flat-square"/></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-D24939?style=flat-square"/></a>
 
 </div>
 
@@ -22,439 +29,246 @@
 
 ## 🚀 About Me
 
-I'm a **Cloud & DevOps Engineering enthusiast** focused on building reliable, automated and scalable infrastructure.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=800&lines=Final-year+Computer+Science+Engineering+student;Passionate+about+Cloud%2C+DevOps%2C+AI%2FML+%26+Software+Development" alt="about"/>
+</div>
 
-My goal is to bridge the gap between **development and operations** by automating software delivery, infrastructure provisioning, deployment, monitoring and cloud operations.
+<br/>
 
 ```yaml
-profile:
-  role: "Cloud & DevOps Engineer"
-  focus:
-    - Cloud Infrastructure
-    - CI/CD Automation
-    - Infrastructure as Code
-    - Containerization
-    - Kubernetes
-    - Cloud Security
-    - Monitoring & Observability
-    - Linux Administration
-  currently_learning:
-    - Advanced AWS
-    - Kubernetes
-    - Terraform
-    - DevSecOps
-    - Cloud Architecture
-  engineering_mindset:
-    - Automate Everything
-    - Infrastructure as Code
-    - Security by Design
-    - Monitor Everything
-    - Build → Test → Deploy → Monitor
+name: Kirthick Roshan
+role: Cloud & DevOps Engineer
+education: B.E. Computer Science Engineering (Final Year)
+focus:
+  - Cloud Computing (AWS)
+  - DevOps & CI/CD Automation
+  - Containerization & Orchestration
+  - AI/ML in Cloud-Native Systems
+currently_learning: [Kubernetes, Terraform, AI/ML Deployment]
+philosophy: "Automate everything. Ship reliably. Keep learning."
 ```
 
+- ☁️ Building and deploying applications using **AWS** and modern DevOps tools.
+- 🐳 Interested in **containerization, CI/CD pipelines, Linux administration** and cloud infrastructure.
+- 🤖 Exploring **AI/ML integration** into real-world applications and cloud-native systems.
+
+### 🔧 Currently Working With
+
+<div align="center">
+
+| ☁️ Cloud | 🐳 DevOps | 💻 Development | 🤖 AI/ML |
+|:---:|:---:|:---:|:---:|
+| AWS | Docker | Python | PyTorch |
+| Linux | Kubernetes | React | TensorFlow |
+| Nginx | Jenkins | Django / Flask / FastAPI | Scikit-Learn |
+| RDS / S3 | Git & GitHub | MySQL / PostgreSQL | HuggingFace |
+
+</div>
+
 ---
 
-# ☁️ Cloud & DevOps Stack
+# 🛠️ Tech Stack
 
-### ☁️ Cloud
+<div align="center">
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,git,github,nginx,python,js,react,nodejs,fastapi,flask,django,mysql,postgres,mongodb,pytorch,tensorflow,sklearn,vscode,bash&perline=8&theme=dark" alt="Tech stack icons"/>
+</a>
+
+</div>
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br/>
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
+</details>
 
-**AWS Services:**
-`EC2` `S3` `VPC` `IAM` `EBS` `EFS` `RDS` `CloudWatch` `CloudFront` `Route 53` `ELB` `Auto Scaling` `ECS` `EKS` `Lambda` `AWS Backup`
-
----
-
-### 🐧 Operating Systems
-
+<details open>
+<summary><b>🌐 Web Development</b></summary>
+<br/>
 <p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,arch" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
+</details>
 
-`Linux Administration` • `Shell Scripting` • `Networking` • `Process Management` • `System Monitoring`
-
----
-
-### 🔄 CI/CD & Automation
-
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
 <p>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
+</details>
 
-`Git` • `GitHub` • `GitHub Actions` • `Jenkins` • `CI/CD Pipelines` • `Build Automation` • `Deployment Automation`
-
----
-
-### 🐳 Containers & Orchestration
-
+<details open>
+<summary><b>🤖 AI / Machine Learning</b></summary>
+<br/>
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
+</details>
 
-`Docker` • `Docker Compose` • `Kubernetes` • `Pods` • `Deployments` • `Services` • `ConfigMaps` • `Secrets` • `Ingress`
-
----
-
-### 🏗️ Infrastructure as Code
-
+<details open>
+<summary><b>🗄️ Databases & 🔧 Tools</b></summary>
+<br/>
 <p>
-<img src="https://skillicons.dev/icons?i=terraform,ansible" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
-`Terraform` • `Ansible` • `Infrastructure Automation` • `Configuration Management`
+</details>
 
 ---
 
-### 📊 Monitoring & Observability
+# ☁️ Cloud & DevOps Architecture
 
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
+### 🔁 Typical CI/CD Pipeline I Work With
 
-`Prometheus` • `Grafana` • `CloudWatch` • `Logging` • `Metrics` • `Alerting` • `System Monitoring`
+```mermaid
+flowchart LR
+    A[👨‍💻 Developer] -->|git push| B[(GitHub)]
+    B -->|Webhook| C[🔄 Jenkins]
+    C --> D[🧪 Build & Test]
+    D --> E[🐳 Docker Image]
+    E --> F[☸️ Kubernetes / EC2]
+    F --> G[🌐 Nginx]
+    G --> H[👥 Users]
+    F -.->|Metrics & Logs| I[📊 CloudWatch]
 
----
-
-### 💻 Programming & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,bash,mysql,mongodb" />
-</p>
-
-`Python` • `JavaScript` • `React` • `Node.js` • `Bash` • `MySQL` • `MongoDB`
-
----
-
-# 🧩 DevOps Engineering Workflow
-
-```text
-                    ┌─────────────────┐
-                    │   Developer     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │      Git        │
-                    │    GitHub       │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │    CI Pipeline  │
-                    │ GitHub Actions  │
-                    │    / Jenkins    │
-                    └────────┬────────┘
-                             │
-                    ┌────────▼────────┐
-                    │ Build & Test    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ Docker Image    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ Container       │
-                    │ Registry        │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ Kubernetes /    │
-                    │ AWS Deployment  │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ Monitoring      │
-                    │ Prometheus      │
-                    │ Grafana         │
-                    │ CloudWatch      │
-                    └─────────────────┘
+    style A fill:#0e75b6,color:#fff,stroke:none
+    style B fill:#181717,color:#fff,stroke:none
+    style C fill:#D24939,color:#fff,stroke:none
+    style D fill:#2ea44f,color:#fff,stroke:none
+    style E fill:#2496ED,color:#fff,stroke:none
+    style F fill:#326CE5,color:#fff,stroke:none
+    style G fill:#009639,color:#fff,stroke:none
+    style H fill:#FF9900,color:#000,stroke:none
+    style I fill:#232F3E,color:#fff,stroke:none
 ```
 
----
-
-# 🏗️ What I Build
-
-### 🔹 Cloud Infrastructure
-
-* AWS infrastructure design
-* VPC and networking
-* EC2-based applications
-* IAM and access management
-* S3 storage solutions
-* Load balancing
-* Auto Scaling
-* Cloud monitoring
-* Backup strategies
-
-### 🔹 DevOps Automation
-
-* CI/CD pipelines
-* Automated testing
-* Dockerized applications
-* Automated deployments
-* GitHub Actions workflows
-* Jenkins pipelines
-* Infrastructure provisioning
-* Configuration automation
-
-### 🔹 Kubernetes
-
-* Container orchestration
-* Deployments
-* Services
-* Ingress
-* ConfigMaps
-* Secrets
-* Resource management
-* Scaling
-* Application deployment
-
-### 🔹 Infrastructure as Code
+### 🧭 Skills Map
 
 ```text
-Terraform
-    ↓
-Infrastructure Definition
-    ↓
-AWS Resources
-    ↓
-Automated Provisioning
-    ↓
-Version Controlled Infrastructure
-```
+AWS
+ ├── EC2          → Compute & hosting
+ ├── VPC          → Networking & isolation
+ ├── IAM          → Access control & security
+ ├── RDS          → Managed databases
+ ├── S3           → Object storage
+ ├── CloudWatch   → Monitoring & logging
+ └── DMS          → Database migration
 
----
-
-# 🔥 Featured Projects
-
-## ☁️ Cloud-Based Hospital Management System
-
-**Tech:** `Python` `React` `AWS` `Docker` `CI/CD`
-
-A cloud-ready hospital management application designed with automated deployment and monitoring.
-
-### DevOps Implementation
-
-* Dockerized application
-* CI/CD pipeline
-* Automated deployment
-* Cloud infrastructure
-* Application monitoring
-* Logging and alerting
-
----
-
-## 📢 Digital Notice Board & Alert Management System
-
-**Tech:** `React` `Python` `MySQL` `WebSockets` `Machine Learning`
-
-A centralized college communication platform for managing academic notices, alerts and notifications.
-
-### Highlights
-
-* Role-based authentication
-* Real-time notifications
-* Notice prioritization
-* Department management
-* Search and filtering
-* Timetable management
-* Automated scheduling
-* Analytics
-
----
-
-## 🍎 AI Fruit Freshness Analyzer
-
-**Tech:** `Python` `TensorFlow` `EfficientNetB0` `Computer Vision`
-
-AI-powered application for identifying fruit freshness using deep learning.
-
-### ML Pipeline
-
-```text
-Dataset
-   ↓
-Preprocessing
-   ↓
-Data Augmentation
-   ↓
-EfficientNetB0
-   ↓
-Model Training
-   ↓
-Evaluation
-   ↓
-Prediction
-```
-
----
-
-# ⚙️ DevOps Projects I'm Building
-
-| Project               | Technologies                    | Focus                   |
-| --------------------- | ------------------------------- | ----------------------- |
-| 🚀 CI/CD Pipeline     | GitHub Actions + Docker         | Automated Deployment    |
-| ☁️ AWS Infrastructure | AWS + Terraform                 | Infrastructure as Code  |
-| 🐳 Container Platform | Docker + Kubernetes             | Container Orchestration |
-| 📊 Monitoring Stack   | Prometheus + Grafana            | Observability           |
-| 🔐 DevSecOps Pipeline | GitHub Actions + Security Tools | Secure CI/CD            |
-| 🌐 Cloud Application  | AWS + Docker + Nginx            | Production Deployment   |
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirthick-Roshan-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthick-Roshan-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Kirthick-Roshan-S&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirthick-Roshan-S&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kirthick-Roshan-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Kirthick-Roshan-S/Kirthick-Roshan-S/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-# 🎯 2026 Learning Roadmap
-
-```text
-Cloud
-├── AWS
-│   ├── EC2
-│   ├── VPC
-│   ├── IAM
-│   ├── S3
-│   ├── RDS
-│   ├── ECS
-│   ├── EKS
-│   └── CloudWatch
-│
 DevOps
-├── Git
-├── GitHub
-├── GitHub Actions
-├── Jenkins
-├── Docker
-├── Kubernetes
-├── Terraform
-└── Ansible
-│
-DevSecOps
-├── Container Security
-├── IAM
-├── Secrets Management
-├── Dependency Scanning
-└── CI/CD Security
-│
-Observability
-├── Prometheus
-├── Grafana
-├── CloudWatch
-├── Logs
-└── Alerts
+ ├── Git / GitHub → Version control
+ ├── Jenkins      → Build automation
+ ├── Docker       → Containerization
+ ├── Kubernetes   → Orchestration
+ ├── Nginx        → Reverse proxy / web server
+ └── CI/CD        → End-to-end delivery pipelines
+
+Linux
+ ├── Ubuntu
+ ├── Amazon Linux
+ ├── Arch Linux
+ └── Bash         → Scripting & automation
 ```
+
+<!-- Skill proficiency bars (edit the percentages honestly to match your level) -->
+### 📈 Proficiency Overview
+
+<div align="center">
+
+| Skill | Level |
+|:---|:---|
+| ☁️ AWS | ![](https://geps.dev/progress/80) |
+| 🐳 Docker | ![](https://geps.dev/progress/80) |
+| 🐧 Linux | ![](https://geps.dev/progress/85) |
+| 🔄 Jenkins / CI-CD | ![](https://geps.dev/progress/75) |
+| ☸️ Kubernetes | ![](https://geps.dev/progress/65) |
+| 🐍 Python | ![](https://geps.dev/progress/85) |
+| 🤖 AI / ML | ![](https://geps.dev/progress/65) |
+
+</div>
 
 ---
 
-# 📚 Currently Learning
+# 📊 GitHub Analytics
 
-### ☁️ Cloud
+<div align="center">
 
-`AWS Architecture` `AWS Networking` `IAM & Security` `High Availability` `Scalable Infrastructure`
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=roshanonline&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanonline&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
-### ⚙️ DevOps
+<br/>
 
-`Advanced CI/CD` `Kubernetes` `Terraform` `Ansible` `DevSecOps`
+<img src="https://streak-stats.demolab.com?user=roshanonline&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-### 📊 Observability
+<br/><br/>
 
-`Prometheus` `Grafana` `CloudWatch` `Centralized Logging` `Alerting`
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=roshanonline&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph"/>
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=roshanonline&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshanonline/roshanonline/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshanonline/roshanonline/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/roshanonline/roshanonline/output/github-snake.svg" />
+</picture>
+</div>
+
+<!-- The snake needs the workflow file .github/workflows/snake.yml (provided separately). -->
 
 ---
 
-# 🧠 My Engineering Principles
+<!--
+# 📂 Featured Projects
+Replace YOUR_REPO_NAME with your real repository names, then remove this comment wrapper.
 
-```text
-01. Automate repetitive work
-02. Infrastructure should be reproducible
-03. Everything should be version controlled
-04. Security should be part of the pipeline
-05. Containers make deployments consistent
-06. Monitoring is part of production
-07. Failures should be observable
-08. Deployments should be repeatable
-09. Infrastructure should be scalable
-10. Keep learning continuously
-```
+<div align="center">
+<a href="https://github.com/roshanonline/YOUR_REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanonline&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/roshanonline/YOUR_REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanonline&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true"/>
+</a>
+</div>
+-->
 
----
+# 🎯 Goals
 
-# 📂 Repository Structure
-
-I organize my repositories around practical engineering:
-
-```text
-📁 cloud-projects
-├── AWS
-├── Terraform
-├── Networking
-└── Cloud Architecture
-
-📁 devops-projects
-├── CI-CD
-├── Docker
-├── Kubernetes
-├── Jenkins
-└── Automation
-
-📁 monitoring
-├── Prometheus
-├── Grafana
-└── CloudWatch
-
-📁 applications
-├── React
-├── Python
-├── Node.js
-└── Full Stack
-```
+- [x] Build a strong foundation in Linux & AWS
+- [x] Learn containerization with Docker
+- [ ] Earn AWS certification (Cloud Practitioner → Solutions Architect Associate)
+- [ ] Master Kubernetes & Infrastructure as Code (Terraform)
+- [ ] Deploy production-grade ML models with MLOps practices
 
 ---
 
@@ -462,38 +276,17 @@ I organize my repositories around practical engineering:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://github.com/Kirthick-Roshan-S">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
-<a href="mailto:devstack08@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
+<!-- Replace the placeholder links with your real profiles -->
+<a href="https://github.com/roshanonline"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=Open+to+internships+and+entry-level+Cloud+%2F+DevOps+roles;Let's+build+something+reliable+together+%F0%9F%9A%80" alt="closing"/>
 
 </div>
 
----
-
-# 💬 DevOps Mindset
-
-<div align="center">
-
-### **"Build it. Automate it. Deploy it. Monitor it. Improve it."**
-
-### ☁️ Cloud • ⚙️ DevOps • 🐳 Containers • ☸️ Kubernetes • 🔄 CI/CD • 🔐 DevSecOps
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**If you find my projects useful, consider giving them a ⭐**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
+<!-- ═══════════════ FOOTER (animated wave) ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:232F3E,100:0e75b6&height=140&section=footer&animation=twinkling" alt="footer"/>
